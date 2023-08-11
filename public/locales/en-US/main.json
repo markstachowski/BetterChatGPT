@@ -1,6 +1,6 @@
 {
   "save": "Save",
-  "saveAndSubmit": "Save & Submit",
+  "generate": "Generate",
   "cancel": "Cancel",
   "confirm": "Confirm",
   "warning": "Warning",
@@ -9,7 +9,7 @@
   "clearConversation": "Clear Conversation History",
   "import": "Import",
   "export": "Export",
-  "author": "Made by Jing Hua",
+  "author": "Made by Mark Stachowski",
   "about": "About & Sponsor",
   "api": "API",
   "personal": "Personal",
